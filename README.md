@@ -1,5 +1,5 @@
 # circle_detection
-Circle detection on images using genetic algorithms
+Circle detection on images using an evolutionary algorithm
 
 Implementation of a paper (https://www.sciencedirect.com/science/article/abs/pii/S016786550500293X) with MATLAB.
 
